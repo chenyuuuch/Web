@@ -5,6 +5,6 @@
 > > 系級：科技系二年級
 
 > Class
-> > [課程筆記區](http://chenyuuuch/Web) <br />
-> > [作業連結區](http://chenyuuuch/Web) <br />
-> > [專題連結區](http://chenyuuuch/Web) <br />
+> > [課程筆記區](https://github.com/chenyuuuch/Web/blob/main/README.md) <br />
+> > [作業連結區](https://github.com/chenyuuuch/Web/blob/main/README.md) <br />
+> > [專題連結區](https://github.com/chenyuuuch/Web/blob/main/README.md) <br />
