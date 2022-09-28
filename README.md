@@ -7,13 +7,13 @@
 
 ---
 
-Outline
+Contents
 > **[HW](#hw)** <br />
 > **[Notes](#notes)** <br />
 > **[Project](#project)** <br />
 
 
 > ##### HW 
-> [week3: Create Github Repo & Github Pages Tutorial](https://chenyuuuch.github.io/Web/my%20page/)
+> week3: [Create Github Repo & Github Pages Tutorial](https://chenyuuuch.github.io/Web/my%20page/)
 > ##### Notes
 > ##### Project
