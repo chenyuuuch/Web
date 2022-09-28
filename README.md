@@ -5,8 +5,12 @@
 > > Class：科技系二年級
 
 > Class
-> > **[HW](-HW)**<br />
-> > [Note](https://github.com/chenyuuuch/Web/blob/main/README.md) <br />
-> > [Project](https://github.com/chenyuuuch/Web/blob/main/README.md) <br />
+> > **[HW](#hw)** <br />
+> > **[Notes](#notes)** <br />
+> > **[Project](#project)** <br />
 
-- HW
+
+> > ##### HW 
+> > [week3: Create Github Repo & Github Pages Tutorial](https://chenyuuuch.github.io/Web/my%20page/)
+> > ##### Notes
+> > ##### Project
