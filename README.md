@@ -14,6 +14,6 @@ Contents
 
 
 > ##### HW 
-> week3: [Create Github Repo & Github Pages Tutorial](https://chenyuuuch.github.io/Web/my%20page/)
+> week3: [Create Github Repo & Github Pages](https://chenyuuuch.github.io/Web/my%20page/)
 > ##### Notes
 > ##### Project
