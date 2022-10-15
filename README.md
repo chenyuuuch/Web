@@ -14,7 +14,7 @@ Contents
 
 
 > ##### HW 
-> week3: [Create Github Repo & Github Pages](https://youtu.be/QZXqN3FKSSw)
-> week5: [MySQL, NodeJS & ReactJS](https://youtu.be/QZXqN3FKSSw)
+> week3: [Create Github Repo & Github Pages](https://youtu.be/QZXqN3FKSSw) <br />
+> week5: [MySQL, NodeJS & ReactJS](https://youtu.be/QZXqN3FKSSw) <br />
 > ##### Notes
 > ##### Project
