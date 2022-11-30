@@ -18,5 +18,6 @@ Contents
 > week5: [ReactJS, NodeJS & MySQL](https://youtu.be/3gw1w7tU7U8) <br />
 > week7: [S3 & EC2](https://youtu.be/vFmb5N5FIwA) <br />
 > week9: [VPC & IAM](https://youtu.be/GbkQzjPYK9M) <br />
+> week11: [DynamoDB, RDS & Simple Storage Service](https://youtu.be/qj53VvQCpYs) <br />
 > ##### Notes
 > ##### Project
